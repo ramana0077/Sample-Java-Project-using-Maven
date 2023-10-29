@@ -22,5 +22,7 @@ To run this Java program, you need the following software and tools installed on
  To run this program using maven the commands are
 - 
 mvn clean
+
 mvn compile
+
 mvn exec:java
