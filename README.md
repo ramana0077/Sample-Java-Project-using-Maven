@@ -14,7 +14,7 @@ To run this Java program, you need the following software and tools installed on
 - Java Development Kit (JDK)
 - Apache Maven
 
-- To run this program using java in cli you need to go to the file location and give commands as follows
+ To run this program using java in cli you need to go to the file location and give commands as follows
 
 - javac Main.java
 - java Main
