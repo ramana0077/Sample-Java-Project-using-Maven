@@ -5,7 +5,7 @@ To fully grasp the details of how these calculations are implemented, you would 
 The provided pom.xml is an XML configuration file for a Maven project. It contains information about the project, its dependencies, and build settings.
 
 In this configuration, the <mainClass> element specifies the name of the main class to be executed during the build process. In this case, it's set to "Main."
- <mainClass>Main</mainClass>
+ 
 
 In summary, the pom.xml you provided is a basic Maven configuration file for a Java project. It defines project-related metadata, specifies Maven plugins for building and compiling code, and sets the configuration for the execution of a main Java class during the build process. The exact behavior and functionality of the Maven build depend on the specific plugins used and the details of your project's source code.
 
